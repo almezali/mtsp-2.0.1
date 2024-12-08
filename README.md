@@ -24,7 +24,7 @@ sudo apt-get install mpv youtube-dl  # For Debian/Ubuntu-based distributions
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mtsp.git
+git clone https://github.com/almezali/mtsp.git
 cd mtsp
 chmod +x mtsp-2.0.1.sh
 ```
